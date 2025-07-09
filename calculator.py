@@ -5,13 +5,9 @@ def add(a, b):
 def subtract(a, b):
 	return a-b
 
-<<<<<<< HEAD
-def divide(a, b):
-	return a/b
-=======
+
 def multiply(a, b):
 	return a*b
 
-def divide_premium(a, b):
-    return a/b
->>>>>>> main
+def devide_new(a, b):
+	return a/b
